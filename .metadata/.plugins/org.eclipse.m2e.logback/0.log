@@ -518,3 +518,552 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact io.netty:nett
 2023-08-31 16:38:21,601 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-08-31 16:38:21,606 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Client-server\src\test\resources
 2023-08-31 16:48:51,920 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 16:48:51,936 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 16:48:51,941 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Client-server\src\test\resources
+2023-08-31 17:37:39,694 [Worker-83: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server-1:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server-1\pom.xml.
+2023-08-31 17:37:39,883 [Worker-83: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-oauth2-resource-server/3.0.10/spring-boot-starter-oauth2-resource-server-3.0.10.pom
+2023-08-31 17:37:40,022 [Worker-83: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-oauth2-resource-server/3.0.10/spring-boot-starter-oauth2-resource-server-3.0.10.pom
+2023-08-31 17:37:40,104 [Worker-83: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.0.6/spring-security-oauth2-resource-server-6.0.6.pom
+2023-08-31 17:37:40,125 [Worker-83: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.0.6/spring-security-oauth2-resource-server-6.0.6.pom
+2023-08-31 17:37:40,387 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.0.6/spring-security-oauth2-resource-server-6.0.6.jar
+2023-08-31 17:37:40,430 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.0.6/spring-security-oauth2-resource-server-6.0.6.jar
+2023-08-31 17:37:40,514 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-oauth2-resource-server/3.0.10/spring-boot-starter-oauth2-resource-server-3.0.10.jar
+2023-08-31 17:37:40,664 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-oauth2-resource-server/3.0.10/spring-boot-starter-oauth2-resource-server-3.0.10.jar
+2023-08-31 17:37:40,996 [Worker-83: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server-1/src/main/java
+2023-08-31 17:37:40,997 [Worker-83: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server-1/src/main/resources
+2023-08-31 17:37:41,004 [Worker-83: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server-1/src/main/resources
+2023-08-31 17:37:41,009 [Worker-83: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server-1/src/test/java
+2023-08-31 17:37:41,459 [Worker-83: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2023-08-31 17:37:41,461 [Worker-83: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 17:37:41,691 [Worker-83: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server-1:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server-1\pom.xml.
+2023-08-31 17:37:41,846 [Worker-63: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-oauth2-resource-server/3.0.10/spring-boot-starter-oauth2-resource-server-3.0.10-sources.jar
+2023-08-31 17:37:41,867 [Worker-63: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-oauth2-resource-server/3.0.10/spring-boot-starter-oauth2-resource-server-3.0.10-sources.jar
+2023-08-31 17:37:41,872 [Worker-63: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-oauth2-resource-server:3.0.10
+2023-08-31 17:37:41,933 [Worker-63: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.0.6/spring-security-oauth2-resource-server-6.0.6-sources.jar
+2023-08-31 17:37:41,973 [Worker-63: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.0.6/spring-security-oauth2-resource-server-6.0.6-sources.jar
+2023-08-31 17:37:41,976 [Worker-63: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-oauth2-resource-server:6.0.6
+2023-08-31 17:37:42,188 [Worker-83: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server-1/src/main/java
+2023-08-31 17:37:42,188 [Worker-83: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server-1/src/main/resources
+2023-08-31 17:37:42,188 [Worker-83: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server-1/src/main/resources
+2023-08-31 17:37:42,189 [Worker-83: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server-1/src/test/java
+2023-08-31 17:37:42,224 [Worker-63: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.97.Final/netty-resolver-dns-native-macos-4.1.97.Final-javadoc.jar
+2023-08-31 17:37:42,227 [Worker-63: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for io.netty:netty-resolver-dns-native-macos:4.1.97.Finalosx-x86_64
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.netty:netty-resolver-dns-native-macos:jar:javadoc:4.1.97.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-08-31 17:37:42,615 [Worker-83: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-08-31 17:37:43,247 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-31 17:37:43,284 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 17:37:43,290 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server-1\src\test\resources
+2023-08-31 17:38:29,651 [Worker-82: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server-1:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server-1\pom.xml.
+2023-08-31 17:38:29,766 [Worker-82: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-oauth2-resource-server/3.0.5/spring-boot-starter-oauth2-resource-server-3.0.5.pom
+2023-08-31 17:38:29,821 [Worker-82: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-oauth2-resource-server/3.0.5/spring-boot-starter-oauth2-resource-server-3.0.5.pom
+2023-08-31 17:38:30,803 [Worker-82: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-oauth2-resource-server/3.0.5/spring-boot-starter-oauth2-resource-server-3.0.5.jar
+2023-08-31 17:38:30,909 [Worker-82: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-oauth2-resource-server/3.0.5/spring-boot-starter-oauth2-resource-server-3.0.5.jar
+2023-08-31 17:38:34,646 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 17:38:34,647 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 17:38:34,652 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server-1\src\test\resources
+2023-08-31 17:38:34,722 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 17:38:34,820 [Worker-86: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-oauth2-resource-server/3.0.5/spring-boot-starter-oauth2-resource-server-3.0.5-sources.jar
+2023-08-31 17:38:35,009 [Worker-86: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-oauth2-resource-server/3.0.5/spring-boot-starter-oauth2-resource-server-3.0.5-sources.jar
+2023-08-31 17:38:35,013 [Worker-86: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-oauth2-resource-server:3.0.5
+2023-08-31 17:38:35,159 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server-1:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server-1\pom.xml.
+2023-08-31 17:38:35,941 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server-1/src/main/java
+2023-08-31 17:38:35,941 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server-1/src/main/resources
+2023-08-31 17:38:35,942 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server-1/src/main/resources
+2023-08-31 17:38:35,943 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server-1/src/test/java
+2023-08-31 17:38:36,465 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
+2023-08-31 17:38:36,470 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 17:38:36,829 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server-1:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server-1\pom.xml.
+2023-08-31 17:38:37,465 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server-1/src/main/java
+2023-08-31 17:38:37,466 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server-1/src/main/resources
+2023-08-31 17:38:37,466 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server-1/src/main/resources
+2023-08-31 17:38:37,467 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server-1/src/test/java
+2023-08-31 17:38:37,853 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-08-31 17:38:38,331 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 17:38:38,348 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 17:38:38,351 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server-1\src\test\resources
+2023-08-31 17:38:56,736 [Worker-89: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 17:38:56,987 [Worker-89: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server-1:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server-1\pom.xml.
+2023-08-31 17:38:57,429 [Worker-89: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server-1/src/main/java
+2023-08-31 17:38:57,429 [Worker-89: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server-1/src/main/resources
+2023-08-31 17:38:57,429 [Worker-89: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server-1/src/main/resources
+2023-08-31 17:38:57,430 [Worker-89: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server-1/src/test/java
+2023-08-31 17:38:57,715 [Worker-89: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-08-31 17:38:58,016 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 17:38:58,032 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 17:38:58,035 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server-1\src\test\resources
+2023-08-31 17:39:58,584 [Worker-82: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server-1:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server-1\pom.xml.
+2023-08-31 17:40:30,727 [Worker-86: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 17:40:30,863 [Worker-86: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server-1:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server-1\pom.xml.
+2023-08-31 17:40:31,325 [Worker-86: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server-1/src/main/resources
+2023-08-31 17:40:31,325 [Worker-86: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server-1/src/main/resources
+2023-08-31 17:40:31,768 [Worker-86: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-08-31 17:40:53,676 [Worker-78: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server-1:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server-1\pom.xml.
+2023-08-31 17:40:53,803 [Worker-78: Building] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Could not read maven project
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:415)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readProject(MavenImpl.java:405)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.lambda$4(AbstractMavenArchiverConfigurator.java:577)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.loadParentHierarchy(AbstractMavenArchiverConfigurator.java:569)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:366)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:229)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:221)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:883)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:851)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1004)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:316)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1020)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:247)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:392)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:395)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:506)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:454)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:536)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:196)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:289)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM C:\WorkSpacesGit\SpringSecurity\Resource-server-1: C:\WorkSpacesGit\SpringSecurity\Resource-server-1 (Acesso negado) @ 
+ for project  at C:\WorkSpacesGit\SpringSecurity\Resource-server-1
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:180)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:124)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:413)
+	... 35 common frames omitted
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM C:\WorkSpacesGit\SpringSecurity\Resource-server-1: C:\WorkSpacesGit\SpringSecurity\Resource-server-1 (Acesso negado) @ 
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:687)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:303)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:267)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:173)
+	... 37 common frames omitted
+2023-08-31 17:41:21,484 [Worker-78: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server-1:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server-1\pom.xml.
+2023-08-31 17:41:21,971 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 17:41:21,971 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 17:41:21,974 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server-1\src\test\resources
+2023-08-31 17:41:53,030 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 17:41:53,050 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 17:41:53,054 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server-1\src\test\resources
+2023-08-31 17:43:24,976 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 17:43:24,990 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server-1\src\test\resources
+2023-08-31 17:44:11,510 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 17:44:11,731 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server-1:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server-1\pom.xml.
+2023-08-31 17:44:12,140 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server-1/src/main/java
+2023-08-31 17:44:12,141 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server-1/src/main/resources
+2023-08-31 17:44:12,141 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server-1/src/main/resources
+2023-08-31 17:44:12,141 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server-1/src/test/java
+2023-08-31 17:44:12,496 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-08-31 17:44:12,820 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 17:44:12,841 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 17:44:12,845 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server-1\src\test\resources
+2023-08-31 17:45:24,227 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 17:45:24,235 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 17:45:24,240 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server-1\src\test\resources
+2023-08-31 17:49:32,230 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 17:49:32,240 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 17:49:32,244 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server-1\src\test\resources
+2023-08-31 17:50:48,503 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 17:50:48,509 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 17:50:48,511 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server-1\src\test\resources
+2023-08-31 17:50:59,753 [Worker-83: Launching Resource-server-1 - ResourceServer1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 17:50:59,762 [Worker-83: Launching Resource-server-1 - ResourceServer1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 17:50:59,765 [Worker-83: Launching Resource-server-1 - ResourceServer1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server-1\src\test\resources
+2023-08-31 17:56:55,554 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 17:56:55,561 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 17:56:55,564 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server-1\src\test\resources
+2023-08-31 18:00:29,489 [Worker-83: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server\pom.xml.
+2023-08-31 18:00:30,277 [Worker-83: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server/src/main/java
+2023-08-31 18:00:30,278 [Worker-83: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server/src/main/resources
+2023-08-31 18:00:30,282 [Worker-83: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server/src/main/resources
+2023-08-31 18:00:30,286 [Worker-83: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server/src/test/java
+2023-08-31 18:00:32,853 [Worker-83: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2023-08-31 18:00:32,855 [Worker-83: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 18:00:33,035 [Worker-83: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server\pom.xml.
+2023-08-31 18:00:33,469 [Worker-83: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server/src/main/java
+2023-08-31 18:00:33,469 [Worker-83: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server/src/main/resources
+2023-08-31 18:00:33,469 [Worker-83: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server/src/main/resources
+2023-08-31 18:00:33,470 [Worker-83: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server/src/test/java
+2023-08-31 18:00:33,912 [Worker-83: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-08-31 18:00:34,360 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-31 18:00:34,376 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 18:00:34,379 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server\src\test\resources
+2023-08-31 18:01:13,439 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-31 18:01:13,450 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 18:01:13,454 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server\src\test\resources
+2023-08-31 18:01:55,716 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-31 18:01:55,719 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 18:01:55,722 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server\src\test\resources
+2023-08-31 18:02:14,486 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-31 18:02:14,492 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 18:02:14,495 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server\src\test\resources
+2023-08-31 18:02:23,392 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-31 18:02:23,398 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 18:02:23,410 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server\src\test\resources
+2023-08-31 18:02:42,777 [Worker-93: Launching Resource-server - ResourceServerApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-31 18:02:42,793 [Worker-93: Launching Resource-server - ResourceServerApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 18:02:42,796 [Worker-93: Launching Resource-server - ResourceServerApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server\src\test\resources
+2023-08-31 18:03:42,247 [Worker-84: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server\pom.xml.
+2023-08-31 18:03:42,741 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 18:03:42,742 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 18:03:42,745 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server\src\test\resources
+2023-08-31 18:03:43,054 [Worker-96: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 18:03:43,266 [Worker-96: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server\pom.xml.
+2023-08-31 18:03:43,746 [Worker-96: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server/src/main/java
+2023-08-31 18:03:43,746 [Worker-96: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server/src/main/resources
+2023-08-31 18:03:43,746 [Worker-96: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server/src/main/resources
+2023-08-31 18:03:43,747 [Worker-96: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server/src/test/java
+2023-08-31 18:03:44,245 [Worker-96: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-08-31 18:03:44,563 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 18:03:44,583 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 18:03:44,587 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server\src\test\resources
+2023-08-31 18:04:31,590 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 18:04:31,595 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 18:04:31,597 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server\src\test\resources
+2023-08-31 18:10:42,981 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 18:10:42,989 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 18:10:42,993 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server\src\test\resources
+2023-08-31 18:11:54,707 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 18:11:54,716 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 18:11:54,719 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Client-server\src\test\resources
+2023-08-31 18:13:25,773 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 18:13:25,785 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 18:13:25,788 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Client-server\src\test\resources
+2023-08-31 18:14:07,731 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 18:14:07,737 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 18:14:07,740 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Client-server\src\test\resources
+2023-08-31 18:16:25,914 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 18:16:25,922 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 18:16:25,924 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server\src\test\resources
+2023-08-31 18:17:36,528 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 18:17:36,535 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 18:17:36,538 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server\src\test\resources
+2023-08-31 18:18:03,791 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-08-31 18:18:03,800 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-31 18:18:03,803 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server\src\test\resources
+2023-08-31 19:11:44,212 [Worker-112: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Auth-server:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Auth-server\pom.xml.
+2023-08-31 19:11:44,315 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.1.0/spring-security-config-6.1.0.pom
+2023-08-31 19:11:44,395 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.1.0/spring-security-config-6.1.0.pom
+2023-08-31 19:11:44,437 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.1.0/spring-security-core-6.1.0.pom
+2023-08-31 19:11:44,493 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.1.0/spring-security-core-6.1.0.pom
+2023-08-31 19:11:44,509 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.1.0/spring-security-crypto-6.1.0.pom
+2023-08-31 19:11:44,620 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.1.0/spring-security-crypto-6.1.0.pom
+2023-08-31 19:11:44,798 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.1.0/spring-security-web-6.1.0.pom
+2023-08-31 19:11:44,859 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.1.0/spring-security-web-6.1.0.pom
+2023-08-31 19:11:44,903 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-core/6.1.0/spring-security-oauth2-core-6.1.0.pom
+2023-08-31 19:11:44,964 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-core/6.1.0/spring-security-oauth2-core-6.1.0.pom
+2023-08-31 19:11:44,981 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-jose/6.1.0/spring-security-oauth2-jose-6.1.0.pom
+2023-08-31 19:11:45,035 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-jose/6.1.0/spring-security-oauth2-jose-6.1.0.pom
+2023-08-31 19:11:45,084 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.1.0/spring-security-oauth2-resource-server-6.1.0.pom
+2023-08-31 19:11:45,129 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.1.0/spring-security-oauth2-resource-server-6.1.0.pom
+2023-08-31 19:11:45,231 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.1.0/spring-boot-starter-security-3.1.0.pom
+2023-08-31 19:11:45,274 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.1.0/spring-boot-starter-security-3.1.0.pom
+2023-08-31 19:11:46,214 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.1.0/spring-security-test-6.1.0.pom
+2023-08-31 19:11:46,259 [Worker-112: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.1.0/spring-security-test-6.1.0.pom
+2023-08-31 19:11:46,309 [AetherRepositoryConnector-repo.maven.apache.org-3-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.1.0/spring-security-oauth2-resource-server-6.1.0.jar
+2023-08-31 19:11:46,312 [AetherRepositoryConnector-repo.maven.apache.org-3-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-jose/6.1.0/spring-security-oauth2-jose-6.1.0.jar
+2023-08-31 19:11:46,349 [AetherRepositoryConnector-repo.maven.apache.org-3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.1.0/spring-security-web-6.1.0.jar
+2023-08-31 19:11:46,349 [AetherRepositoryConnector-repo.maven.apache.org-3-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.1.0/spring-security-config-6.1.0.jar
+2023-08-31 19:11:46,513 [AetherRepositoryConnector-repo.maven.apache.org-3-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.1.0/spring-security-oauth2-resource-server-6.1.0.jar
+2023-08-31 19:11:46,513 [AetherRepositoryConnector-repo.maven.apache.org-3-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-jose/6.1.0/spring-security-oauth2-jose-6.1.0.jar
+2023-08-31 19:11:46,523 [AetherRepositoryConnector-repo.maven.apache.org-3-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-core/6.1.0/spring-security-oauth2-core-6.1.0.jar
+2023-08-31 19:11:46,654 [AetherRepositoryConnector-repo.maven.apache.org-3-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.1.0/spring-boot-starter-security-3.1.0.jar
+2023-08-31 19:11:46,654 [AetherRepositoryConnector-repo.maven.apache.org-3-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.1.0/spring-security-test-6.1.0.jar
+2023-08-31 19:11:46,777 [AetherRepositoryConnector-repo.maven.apache.org-3-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.1.0/spring-boot-starter-security-3.1.0.jar
+2023-08-31 19:11:46,777 [AetherRepositoryConnector-repo.maven.apache.org-3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.1.0/spring-security-web-6.1.0.jar
+2023-08-31 19:11:46,783 [AetherRepositoryConnector-repo.maven.apache.org-3-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-core/6.1.0/spring-security-oauth2-core-6.1.0.jar
+2023-08-31 19:11:46,803 [AetherRepositoryConnector-repo.maven.apache.org-3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.1.0/spring-security-crypto-6.1.0.jar
+2023-08-31 19:11:46,807 [AetherRepositoryConnector-repo.maven.apache.org-3-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.1.0/spring-security-core-6.1.0.jar
+2023-08-31 19:11:46,922 [AetherRepositoryConnector-repo.maven.apache.org-3-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.1.0/spring-security-test-6.1.0.jar
+2023-08-31 19:11:46,922 [AetherRepositoryConnector-repo.maven.apache.org-3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.1.0/spring-security-crypto-6.1.0.jar
+2023-08-31 19:11:46,926 [AetherRepositoryConnector-repo.maven.apache.org-3-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.1.0/spring-security-config-6.1.0.jar
+2023-08-31 19:11:46,964 [AetherRepositoryConnector-repo.maven.apache.org-3-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.1.0/spring-security-core-6.1.0.jar
+2023-08-31 19:11:50,305 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 19:11:50,305 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 19:11:50,308 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Auth-server\src\test\resources
+2023-08-31 19:11:50,533 [Worker-110: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 19:11:50,737 [Worker-110: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Auth-server:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Auth-server\pom.xml.
+2023-08-31 19:11:51,134 [Worker-110: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auth-server/src/main/java
+2023-08-31 19:11:51,135 [Worker-110: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Auth-server/src/main/resources
+2023-08-31 19:11:51,135 [Worker-110: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Auth-server/src/main/resources
+2023-08-31 19:11:51,135 [Worker-110: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auth-server/src/test/java
+2023-08-31 19:11:51,360 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.1.0/spring-security-config-6.1.0-sources.jar
+2023-08-31 19:11:51,529 [Worker-110: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-08-31 19:11:51,875 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-31 19:11:51,905 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 19:11:51,909 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Auth-server\src\test\resources
+2023-08-31 19:11:51,952 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.1.0/spring-security-config-6.1.0-sources.jar
+2023-08-31 19:11:51,956 [Worker-111: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:6.1.0
+2023-08-31 19:11:52,024 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.1.0/spring-security-web-6.1.0-sources.jar
+2023-08-31 19:11:52,214 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.1.0/spring-security-web-6.1.0-sources.jar
+2023-08-31 19:11:52,218 [Worker-111: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:6.1.0
+2023-08-31 19:11:52,290 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-core/6.1.0/spring-security-oauth2-core-6.1.0-sources.jar
+2023-08-31 19:11:52,395 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-core/6.1.0/spring-security-oauth2-core-6.1.0-sources.jar
+2023-08-31 19:11:52,399 [Worker-111: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-oauth2-core:6.1.0
+2023-08-31 19:11:52,618 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-jose/6.1.0/spring-security-oauth2-jose-6.1.0-sources.jar
+2023-08-31 19:11:52,694 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-jose/6.1.0/spring-security-oauth2-jose-6.1.0-sources.jar
+2023-08-31 19:11:52,698 [Worker-111: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-oauth2-jose:6.1.0
+2023-08-31 19:11:52,811 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.1.0/spring-security-oauth2-resource-server-6.1.0-sources.jar
+2023-08-31 19:11:53,066 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-resource-server/6.1.0/spring-security-oauth2-resource-server-6.1.0-sources.jar
+2023-08-31 19:11:53,069 [Worker-111: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-oauth2-resource-server:6.1.0
+2023-08-31 19:11:53,142 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.1.0/spring-boot-starter-security-3.1.0-sources.jar
+2023-08-31 19:11:53,257 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.1.0/spring-boot-starter-security-3.1.0-sources.jar
+2023-08-31 19:11:53,260 [Worker-111: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-security:3.1.0
+2023-08-31 19:11:53,318 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.1.0/spring-security-test-6.1.0-sources.jar
+2023-08-31 19:11:53,569 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.1.0/spring-security-test-6.1.0-sources.jar
+2023-08-31 19:11:53,574 [Worker-111: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-test:6.1.0
+2023-08-31 19:11:53,662 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.1.0/spring-security-core-6.1.0-sources.jar
+2023-08-31 19:11:53,846 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.1.0/spring-security-core-6.1.0-sources.jar
+2023-08-31 19:11:53,849 [Worker-111: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:6.1.0
+2023-08-31 19:11:53,909 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.1.0/spring-security-crypto-6.1.0-sources.jar
+2023-08-31 19:11:53,980 [Worker-111: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.1.0/spring-security-crypto-6.1.0-sources.jar
+2023-08-31 19:11:53,984 [Worker-111: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-crypto:6.1.0
+2023-08-31 19:12:13,390 [Worker-114: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 19:12:13,563 [Worker-114: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Auth-server:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Auth-server\pom.xml.
+2023-08-31 19:12:13,885 [Worker-114: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auth-server/src/main/java
+2023-08-31 19:12:13,885 [Worker-114: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Auth-server/src/main/resources
+2023-08-31 19:12:13,886 [Worker-114: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Auth-server/src/main/resources
+2023-08-31 19:12:13,886 [Worker-114: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auth-server/src/test/java
+2023-08-31 19:12:14,208 [Worker-114: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-08-31 19:12:14,594 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-31 19:12:14,617 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 19:12:14,621 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Auth-server\src\test\resources
+2023-08-31 19:13:37,464 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-31 19:13:37,475 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 19:13:37,478 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Auth-server\src\test\resources
+2023-08-31 19:14:39,809 [Worker-113: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Client-server:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Client-server\pom.xml.
+2023-08-31 19:14:40,242 [AetherRepositoryConnector-repo.maven.apache.org-4-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.92.Final/netty-codec-http2-4.1.92.Final.jar
+2023-08-31 19:14:40,318 [AetherRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.92.Final/netty-transport-4.1.92.Final.jar
+2023-08-31 19:14:40,318 [AetherRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.92.Final/netty-common-4.1.92.Final.jar
+2023-08-31 19:14:40,318 [AetherRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.92.Final/netty-codec-4.1.92.Final.jar
+2023-08-31 19:14:40,318 [AetherRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.92.Final/netty-handler-4.1.92.Final.jar
+2023-08-31 19:14:40,857 [AetherRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.92.Final/netty-codec-4.1.92.Final.jar
+2023-08-31 19:14:40,861 [AetherRepositoryConnector-repo.maven.apache.org-4-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.92.Final/netty-codec-http2-4.1.92.Final.jar
+2023-08-31 19:14:40,900 [AetherRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.92.Final/netty-transport-4.1.92.Final.jar
+2023-08-31 19:14:40,906 [AetherRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.92.Final/netty-handler-4.1.92.Final.jar
+2023-08-31 19:14:40,934 [AetherRepositoryConnector-repo.maven.apache.org-4-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.92.Final/netty-resolver-4.1.92.Final.jar
+2023-08-31 19:14:40,940 [AetherRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.92.Final/netty-common-4.1.92.Final.jar
+2023-08-31 19:14:40,942 [AetherRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.92.Final/netty-resolver-dns-4.1.92.Final.jar
+2023-08-31 19:14:41,017 [AetherRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.92.Final/netty-resolver-dns-native-macos-4.1.92.Final-osx-x86_64.jar
+2023-08-31 19:14:41,035 [AetherRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.92.Final/netty-codec-dns-4.1.92.Final.jar
+2023-08-31 19:14:41,035 [AetherRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.92.Final/netty-resolver-dns-classes-macos-4.1.92.Final.jar
+2023-08-31 19:14:41,113 [AetherRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.92.Final/netty-resolver-dns-4.1.92.Final.jar
+2023-08-31 19:14:41,138 [AetherRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.92.Final/netty-codec-dns-4.1.92.Final.jar
+2023-08-31 19:14:41,209 [AetherRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.92.Final/netty-transport-native-epoll-4.1.92.Final-linux-x86_64.jar
+2023-08-31 19:14:41,273 [AetherRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.92.Final/netty-transport-native-unix-common-4.1.92.Final.jar
+2023-08-31 19:14:41,347 [AetherRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.92.Final/netty-resolver-dns-native-macos-4.1.92.Final-osx-x86_64.jar
+2023-08-31 19:14:41,370 [AetherRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.92.Final/netty-resolver-dns-classes-macos-4.1.92.Final.jar
+2023-08-31 19:14:41,505 [AetherRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.92.Final/netty-transport-classes-epoll-4.1.92.Final.jar
+2023-08-31 19:14:41,527 [AetherRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.7/reactor-netty-core-1.1.7.jar
+2023-08-31 19:14:41,528 [AetherRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.92.Final/netty-transport-native-epoll-4.1.92.Final-linux-x86_64.jar
+2023-08-31 19:14:41,625 [AetherRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.92.Final/netty-handler-proxy-4.1.92.Final.jar
+2023-08-31 19:14:41,632 [AetherRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.92.Final/netty-transport-classes-epoll-4.1.92.Final.jar
+2023-08-31 19:14:41,739 [AetherRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.92.Final/netty-codec-socks-4.1.92.Final.jar
+2023-08-31 19:14:41,789 [AetherRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.7/reactor-netty-core-1.1.7.jar
+2023-08-31 19:14:41,837 [AetherRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.92.Final/netty-codec-socks-4.1.92.Final.jar
+2023-08-31 19:14:41,921 [AetherRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.0.9/spring-webflux-6.0.9.jar
+2023-08-31 19:14:41,930 [AetherRepositoryConnector-repo.maven.apache.org-4-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.92.Final/netty-resolver-4.1.92.Final.jar
+2023-08-31 19:14:42,100 [AetherRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.92.Final/netty-handler-proxy-4.1.92.Final.jar
+2023-08-31 19:14:42,198 [AetherRepositoryConnector-repo.maven.apache.org-4-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.5.6/reactor-core-3.5.6.jar
+2023-08-31 19:14:42,198 [AetherRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-test/3.5.6/reactor-test-3.5.6.jar
+2023-08-31 19:14:42,541 [AetherRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.92.Final/netty-transport-native-unix-common-4.1.92.Final.jar
+2023-08-31 19:14:42,566 [AetherRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.0.9/spring-webflux-6.0.9.jar
+2023-08-31 19:14:42,617 [AetherRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-test/3.5.6/reactor-test-3.5.6.jar
+2023-08-31 19:14:42,755 [AetherRepositoryConnector-repo.maven.apache.org-4-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.5.6/reactor-core-3.5.6.jar
+2023-08-31 19:14:44,569 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 19:14:44,569 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 19:14:44,573 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Client-server\src\test\resources
+2023-08-31 19:14:44,916 [Worker-114: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 19:14:45,174 [Worker-114: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Client-server:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Client-server\pom.xml.
+2023-08-31 19:14:45,446 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-oauth2-client/3.1.0/spring-boot-starter-oauth2-client-3.1.0-sources.jar
+2023-08-31 19:14:45,571 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-oauth2-client/3.1.0/spring-boot-starter-oauth2-client-3.1.0-sources.jar
+2023-08-31 19:14:45,574 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-oauth2-client:3.1.0
+2023-08-31 19:14:45,746 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-client/6.1.0/spring-security-oauth2-client-6.1.0-sources.jar
+2023-08-31 19:14:45,872 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-oauth2-client/6.1.0/spring-security-oauth2-client-6.1.0-sources.jar
+2023-08-31 19:14:45,875 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-oauth2-client:6.1.0
+2023-08-31 19:14:45,965 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/nimbusds/oauth2-oidc-sdk/9.43.2/oauth2-oidc-sdk-9.43.2-sources.jar
+2023-08-31 19:14:45,976 [Worker-114: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Client-server/src/main/java
+2023-08-31 19:14:45,977 [Worker-114: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Client-server/src/main/resources
+2023-08-31 19:14:45,977 [Worker-114: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Client-server/src/main/resources
+2023-08-31 19:14:45,977 [Worker-114: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Client-server/src/test/java
+2023-08-31 19:14:46,404 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/nimbusds/oauth2-oidc-sdk/9.43.2/oauth2-oidc-sdk-9.43.2-sources.jar
+2023-08-31 19:14:46,409 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.nimbusds:oauth2-oidc-sdk:9.43.2
+2023-08-31 19:14:46,472 [Worker-114: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
+2023-08-31 19:14:46,509 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.1.0/spring-boot-starter-webflux-3.1.0-sources.jar
+2023-08-31 19:14:46,618 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.1.0/spring-boot-starter-webflux-3.1.0-sources.jar
+2023-08-31 19:14:46,622 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-webflux:3.1.0
+2023-08-31 19:14:46,695 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.1.0/spring-boot-starter-reactor-netty-3.1.0-sources.jar
+2023-08-31 19:14:46,793 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.1.0/spring-boot-starter-reactor-netty-3.1.0-sources.jar
+2023-08-31 19:14:46,797 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-reactor-netty:3.1.0
+2023-08-31 19:14:46,818 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-31 19:14:46,842 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 19:14:46,846 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Client-server\src\test\resources
+2023-08-31 19:14:46,905 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.7/reactor-netty-http-1.1.7-sources.jar
+2023-08-31 19:14:47,028 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.7/reactor-netty-http-1.1.7-sources.jar
+2023-08-31 19:14:47,031 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-http:1.1.7
+2023-08-31 19:14:47,086 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.92.Final/netty-codec-http-4.1.92.Final-sources.jar
+2023-08-31 19:14:47,267 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.92.Final/netty-codec-http-4.1.92.Final-sources.jar
+2023-08-31 19:14:47,270 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http:4.1.92.Final
+2023-08-31 19:14:47,321 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.92.Final/netty-common-4.1.92.Final-sources.jar
+2023-08-31 19:14:47,487 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.92.Final/netty-common-4.1.92.Final-sources.jar
+2023-08-31 19:14:47,490 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.92.Final
+2023-08-31 19:14:47,584 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.92.Final/netty-buffer-4.1.92.Final-sources.jar
+2023-08-31 19:14:47,717 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.92.Final/netty-buffer-4.1.92.Final-sources.jar
+2023-08-31 19:14:47,721 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.92.Final
+2023-08-31 19:14:47,812 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.92.Final/netty-transport-4.1.92.Final-sources.jar
+2023-08-31 19:14:47,941 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.92.Final/netty-transport-4.1.92.Final-sources.jar
+2023-08-31 19:14:47,945 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.92.Final
+2023-08-31 19:14:48,004 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.92.Final/netty-codec-4.1.92.Final-sources.jar
+2023-08-31 19:14:48,129 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.92.Final/netty-codec-4.1.92.Final-sources.jar
+2023-08-31 19:14:48,133 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.92.Final
+2023-08-31 19:14:48,186 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.92.Final/netty-handler-4.1.92.Final-sources.jar
+2023-08-31 19:14:48,369 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.92.Final/netty-handler-4.1.92.Final-sources.jar
+2023-08-31 19:14:48,372 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.92.Final
+2023-08-31 19:14:48,428 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.92.Final/netty-codec-http2-4.1.92.Final-sources.jar
+2023-08-31 19:14:48,551 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.92.Final/netty-codec-http2-4.1.92.Final-sources.jar
+2023-08-31 19:14:48,553 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http2:4.1.92.Final
+2023-08-31 19:14:48,672 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.92.Final/netty-resolver-dns-4.1.92.Final-sources.jar
+2023-08-31 19:14:48,760 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.92.Final/netty-resolver-dns-4.1.92.Final-sources.jar
+2023-08-31 19:14:48,763 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns:4.1.92.Final
+2023-08-31 19:14:48,870 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.92.Final/netty-resolver-4.1.92.Final-sources.jar
+2023-08-31 19:14:49,211 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.92.Final/netty-resolver-4.1.92.Final-sources.jar
+2023-08-31 19:14:49,214 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.92.Final
+2023-08-31 19:14:49,274 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.92.Final/netty-codec-dns-4.1.92.Final-sources.jar
+2023-08-31 19:14:49,336 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.92.Final/netty-codec-dns-4.1.92.Final-sources.jar
+2023-08-31 19:14:49,339 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-dns:4.1.92.Final
+2023-08-31 19:14:49,611 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.92.Final/netty-resolver-dns-native-macos-4.1.92.Final-sources.jar
+2023-08-31 19:14:49,614 [Worker-117: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for io.netty:netty-resolver-dns-native-macos:4.1.92.Finalosx-x86_64
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.netty:netty-resolver-dns-native-macos:jar:sources:4.1.92.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-08-31 19:14:49,688 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.92.Final/netty-resolver-dns-classes-macos-4.1.92.Final-sources.jar
+2023-08-31 19:14:49,947 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.92.Final/netty-resolver-dns-classes-macos-4.1.92.Final-sources.jar
+2023-08-31 19:14:49,952 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns-classes-macos:4.1.92.Final
+2023-08-31 19:14:50,033 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.92.Final/netty-transport-native-epoll-4.1.92.Final-sources.jar
+2023-08-31 19:14:50,158 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.92.Final/netty-transport-native-epoll-4.1.92.Final-sources.jar
+2023-08-31 19:14:50,163 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.1.92.Finallinux-x86_64
+2023-08-31 19:14:50,251 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.92.Final/netty-transport-native-unix-common-4.1.92.Final-sources.jar
+2023-08-31 19:14:50,319 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.92.Final/netty-transport-native-unix-common-4.1.92.Final-sources.jar
+2023-08-31 19:14:50,322 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-unix-common:4.1.92.Final
+2023-08-31 19:14:50,371 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.92.Final/netty-transport-classes-epoll-4.1.92.Final-sources.jar
+2023-08-31 19:14:50,436 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.92.Final/netty-transport-classes-epoll-4.1.92.Final-sources.jar
+2023-08-31 19:14:50,438 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-classes-epoll:4.1.92.Final
+2023-08-31 19:14:50,674 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.7/reactor-netty-core-1.1.7-sources.jar
+2023-08-31 19:14:50,962 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.7/reactor-netty-core-1.1.7-sources.jar
+2023-08-31 19:14:50,967 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-core:1.1.7
+2023-08-31 19:14:51,070 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.92.Final/netty-handler-proxy-4.1.92.Final-sources.jar
+2023-08-31 19:14:51,251 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.92.Final/netty-handler-proxy-4.1.92.Final-sources.jar
+2023-08-31 19:14:51,255 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler-proxy:4.1.92.Final
+2023-08-31 19:14:51,332 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.92.Final/netty-codec-socks-4.1.92.Final-sources.jar
+2023-08-31 19:14:51,411 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.92.Final/netty-codec-socks-4.1.92.Final-sources.jar
+2023-08-31 19:14:51,414 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-socks:4.1.92.Final
+2023-08-31 19:14:51,523 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.0.9/spring-webflux-6.0.9-sources.jar
+2023-08-31 19:14:51,695 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.0.9/spring-webflux-6.0.9-sources.jar
+2023-08-31 19:14:51,699 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webflux:6.0.9
+2023-08-31 19:14:51,783 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-test/3.5.6/reactor-test-3.5.6-sources.jar
+2023-08-31 19:14:51,979 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-test/3.5.6/reactor-test-3.5.6-sources.jar
+2023-08-31 19:14:51,983 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-test:3.5.6
+2023-08-31 19:14:52,269 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.5.6/reactor-core-3.5.6-sources.jar
+2023-08-31 19:14:52,725 [Worker-117: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-core/3.5.6/reactor-core-3.5.6-sources.jar
+2023-08-31 19:14:52,729 [Worker-117: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-core:3.5.6
+2023-08-31 19:15:26,388 [Worker-111: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server\pom.xml.
+2023-08-31 19:15:26,922 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 19:15:26,922 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 19:15:26,926 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server\src\test\resources
+2023-08-31 19:15:27,388 [Worker-116: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 19:15:27,637 [Worker-116: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server\pom.xml.
+2023-08-31 19:15:27,877 [Worker-113: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-oauth2-resource-server/3.1.0/spring-boot-starter-oauth2-resource-server-3.1.0-sources.jar
+2023-08-31 19:15:27,986 [Worker-113: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-oauth2-resource-server/3.1.0/spring-boot-starter-oauth2-resource-server-3.1.0-sources.jar
+2023-08-31 19:15:27,989 [Worker-113: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-oauth2-resource-server:3.1.0
+2023-08-31 19:15:28,146 [Worker-116: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server/src/main/java
+2023-08-31 19:15:28,147 [Worker-116: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server/src/main/resources
+2023-08-31 19:15:28,147 [Worker-116: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server/src/main/resources
+2023-08-31 19:15:28,147 [Worker-116: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server/src/test/java
+2023-08-31 19:15:28,210 [Worker-113: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.92.Final/netty-resolver-dns-native-macos-4.1.92.Final-javadoc.jar
+2023-08-31 19:15:28,213 [Worker-113: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for io.netty:netty-resolver-dns-native-macos:4.1.92.Finalosx-x86_64
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.netty:netty-resolver-dns-native-macos:jar:javadoc:4.1.92.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-08-31 19:15:28,612 [Worker-116: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-08-31 19:15:29,135 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-31 19:15:29,152 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 19:15:29,155 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server\src\test\resources
+2023-08-31 19:15:55,001 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-31 19:15:55,203 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Resource-server:0.0.1-SNAPSHOT @ C:\WorkSpacesGit\SpringSecurity\Resource-server\pom.xml.
+2023-08-31 19:15:55,616 [Worker-118: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server/src/main/java
+2023-08-31 19:15:55,616 [Worker-118: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server/src/main/resources
+2023-08-31 19:15:55,616 [Worker-118: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Resource-server/src/main/resources
+2023-08-31 19:15:55,616 [Worker-118: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Resource-server/src/test/java
+2023-08-31 19:15:55,959 [Worker-118: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-08-31 19:15:56,230 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-31 19:15:56,245 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 19:15:56,248 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Resource-server\src\test\resources
+2023-08-31 19:19:21,352 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-31 19:19:21,359 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 19:19:21,362 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Client-server\src\test\resources
+2023-08-31 19:20:25,009 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-31 19:20:25,017 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-31 19:20:25,019 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\WorkSpacesGit\SpringSecurity\Client-server\src\test\resources
+2023-08-31 19:23:56,302 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-31 19:23:56,314 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes

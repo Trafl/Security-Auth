@@ -13,29 +13,31 @@ import org.springframework.security.web.authentication.LoginUrlAuthenticationEnt
 
 @Configuration
 public class SecurityFilter {
+	
+	  @Bean
+	  @Order(1)
+	  SecurityFilterChain authorizationServerSecurityFilterChain(HttpSecurity http) throws Exception {
+	    OAuth2AuthorizationServerConfiguration.applyDefaultSecurity(http);
 
-	@Bean
-	@Order(1)
-	SecurityFilterChain authServeFilterChain(HttpSecurity http) throws Exception {
-		OAuth2AuthorizationServerConfiguration.applyDefaultSecurity(http);
-		
-		http.getConfigurer(OAuth2AuthorizationServerConfigurer.class).oidc(
-			withDefaults())
-		.and()
-		.exceptionHandling((exceptions -> exceptions.authenticationEntryPoint(
-			new LoginUrlAuthenticationEntryPoint("/login"))))
-			.oauth2ResourceServer(t -> t.jwt());
-		
-		return http.build();
-	}
-	
-	
-	@Bean
-	@Order(2)
-	SecurityFilterChain defaultSecurityFilterChain(HttpSecurity http) throws Exception {
-		http.authorizeHttpRequests((authorize) -> authorize.anyRequest().authenticated())
-		.formLogin(withDefaults());
-		
-		return http.build();
-	}
+	    http.getConfigurer(OAuth2AuthorizationServerConfigurer.class).oidc(withDefaults());
+
+	    http.exceptionHandling((exceptions) -> exceptions
+	        .authenticationEntryPoint(
+	            new LoginUrlAuthenticationEntryPoint("/login")))
+	        .oauth2ResourceServer(conf -> conf.jwt(withDefaults()));
+
+	    return http.build();
+	  }
+
+	  @Bean
+	  @Order(2)
+	  SecurityFilterChain defaultSecurityFilterChain(HttpSecurity http)
+	      throws Exception {
+	    http
+	        .authorizeHttpRequests((authorize) -> authorize
+	            .anyRequest().authenticated())
+	        .formLogin(withDefaults());
+
+	    return http.build();
+	  }
 }
